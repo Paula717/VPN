@@ -18,6 +18,18 @@ Una VPN funciona como un filtro que convierte a todos sus datos en texto incompr
 
 <div align=center><img src="Img/img02.gif"></div>
 
+# **¿Cuáles son los beneficios de una conexión VPN?**
+
+Una conexión VPN disfraza sus datos en línea y los protege del acceso externo. Cualquiera que tenga acceso a la red y quiera hacerlo puede ver los datos no cifrados. Con una VPN, los hackers y los cibercriminales no pueden descifrar estos datos.
+
+* **Cifrado seguro:** Para leer los datos, necesita una clave de cifrado . Sin ella, le llevaría millones de años a una computadora descifrar el código en caso de un ataque de fuerza bruta. Con la ayuda de una VPN, sus actividades en línea se ocultan incluso en redes públicas.
+
+* **Disfrazar su paradero:** los servidores de VPN principalmente actúan como sus servidores proxy en internet. Debido a que los datos de ubicación demográficos provienen de un servidor en otro país, su ubicación real no se puede determinar. A esto se suma que, en la mayoría de los casos, los proveedores de estos servicios no guardan registros sobre sus actividades. Por otra parte, algunos proveedores registran su comportamiento, pero no transmiten esa información a terceros. Esto significa que cualquier registro potencial de su comportamiento de usuario permanece oculto de manera permanente.
+
+* **Acceso a contenido regional:** el contenido web regional no siempre es accesible desde cualquier parte. Los servicios y los sitios web a menudo contienen contenido que solo puede accederse desde ciertas partes del mundo. Las conexiones estándar utilizan servidores locales en el país para determinar su ubicación. Esto significa que no puede acceder al contenido en casa mientras viaja, y no puede acceder a contenido internacional desde casa. Con la suplantación de ubiación de VPN, puede cambiar a un servidor a otro país y “cambiar” su ubicación de manera eficaz.
+
+* **Transferencia segura de datos:** si trabaja de forma remota, puede necesitar acceder a archivos importantes en la red de su empresa. Por razones de seguridad, este tipo de información requiere una conexión segura. Para obtener acceso a la red, a menudo se requiere una conexión VPN. Los servicios de VPN establecen conexiones con servidores privados y utilizan métodos de cifrado para reducir el riesgo de filtración de datos.
+
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
 
