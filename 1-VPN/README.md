@@ -140,7 +140,9 @@ IKEv2/IPsec: IKEv2 es un protocolo basado en IPSec. Este protocolo puede rápida
 
 <div align=center><img src="Img/img18.jpg"></div>
 _______________________________________________________________________________
+
 # **Mas información**
+
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
 * [¿Qué es una VPN y cómo funciona?][2_2]
 * [ISP: ¿Qué es y para qué sirve?][2_4]
