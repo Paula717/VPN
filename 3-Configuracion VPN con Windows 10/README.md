@@ -29,3 +29,43 @@ Para ello debemos seguir unos pasos que se detallan a continuación:
 7. Marcamos la casilla de **acceso a la red** y **especificamos las direcciones IP** de los clientes que tendrán acceso usando VPN (se recomienda usar el rango superior de direcciones IP para evitar problemas con las que distribuye el router).
 
 <div align=center><img src="Img/img06.png"></div>
+
+8. Seleccionamos **permitir acceso** y cerramos.
+
+Con estos pasos habremos configurado un servidor VPN en Windows 10, sin embargo, para que su funcionamiento sea correcto debemos hacer unos cuantos pasos más.
+
+**Configuración del Firewall**. Para que la conexión al servidor VPN sea posible debemos permitir que el firewall de nuestro servidor permita el acceso, para ello realizaremos los siguientes pasos:
+
+1. Accedemos a **Firewall y protección de red** -> **Permitir una aplicación a través de firewall**
+
+<div align=center><img src="Img/img07.png"></div>
+
+<div align=center><img src="Img/img08.png"></div>
+
+2. Pulsamos en **Cambiar la configuración.**
+
+3. Buscamos **Enrutamiento y acceso remoto** -> Marcamos tanto la opción de privado como de público -> **Pulsamos Aceptar**.
+
+4. Abrimos **PowerShell** como administrador (clic derecho powershell y ejecutar como administrador)
+
+<div align=center><img src="Img/img09.png"></div>
+
+5. **Escribimos Get-NetConnectionProfile** para ver las redes disponibles.
+
+6. Con el comando “**Set-NetConnectionProfile -interfaceIndex** [Nombre de la red que queremos cambiar **–NetworkCategory Private**]“ De esta forma ponemos la red en privado para que el firewall no de problemas.
+
+7. Por último, debemos acceder a nuestro router y abrir el puerto **1723**, que es el destinado a este tipo de conexiones, de esta manera cuando intentemos conectarnos no seremos rechazados.
+
+Con estos pasos habremos configurado la seguridad de nuestro sistema para permitir la conexión a nuestro servidor **VPN**.
+
+# **Configurar Inicio Automático**
+
+Para que el servidor VPN se inicie cada vez que se encienda el sistema debemos seguir los siguientes pasos:
+
+1. Accedemos a la aplicación Servicios de Windows.
+
+<div align=center><img src="Img/img10.png"></div>
+
+2. Una vez iniciada buscamos el servicio “**Enrutamiento y Acceso remoto**” y accedemos a sus propiedades.
+
+<div align=center><img src="Img/img11.png"></div>
