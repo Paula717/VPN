@@ -139,11 +139,12 @@ IKEv2/IPsec: IKEv2 es un protocolo basado en IPSec. Este protocolo puede rápida
 * **WireGuard:** WireGuard es un protocolo relativamente nuevo que ha ido ganando popularidad. Se ejecuta en un kernel de Linux y tiene como objetivo lograr un rendimiento aún mejor que OpenVPN e IPsec. Aún está en desarrollo, por lo que mejor que uses OpenVPN de momento.
 
 <div align=center><img src="Img/img18.jpg"></div>
-
+_______________________________________________________________________________
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
 * [¿Qué es una VPN y cómo funciona?][2_2]
 * [ISP: ¿Qué es y para qué sirve?][2_4]
+* [Las VPN explicadas: ¿Cómo funcionan? ¿Por qué usarlas?][2_6]
 
 [2_1]:https://www.xataka.com/basics/que-es-una-conexion-vpn-para-que-sirve-y-que-ventajas-tiene
 
@@ -154,3 +155,5 @@ IKEv2/IPsec: IKEv2 es un protocolo basado en IPSec. Este protocolo puede rápida
 [2_4]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
 
 [2_5]:https://vpnoverview.com/es/informacion-vpn/protocolos-vpn/
+
+[2_6]:https://vpnoverview.com/es/informacion-vpn/vpn-explicadas/
