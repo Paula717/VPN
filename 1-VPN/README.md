@@ -97,6 +97,7 @@ Una VPN de sitio a sitio es útil si tiene múltiples ubicaciones en su empresa,
 <div align=center><img src="Img/img11.jpg"></div>
 
 Las VPN de sitio a sitio se usan, sobre todo, en las grandes empresas. Son complejas de implementar y no ofrecen la misma flexibilidad que las VPN SSL. Sin embargo, son las más eficaces para asegurar la comunicación dentro de y entre grandes departamentos.
+_____________________________________________________________________________
 
 <div align=center><b>VPN cliente a proveedor</b></div>
 
