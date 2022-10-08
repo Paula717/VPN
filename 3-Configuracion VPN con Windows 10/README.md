@@ -10,6 +10,15 @@ Para ello debemos seguir unos pasos que se detallan a continuación:
 
 <div align=center><img src="Img/img01.png"></div>
 
-1. Presionamos la tecla **“Alt”** y seleccionamos **“Archivo”** -> **Nueva conexión entrante**
+3. Presionamos la tecla **“Alt”** y seleccionamos **“Archivo”** -> **Nueva conexión entrante**
 
 <div align=center><img src="Img/img02.png"></div>
+
+4. Damos acceso a los usuarios que queramos que accedan a la VPN o creamos nuevos usuarios, estos usuarios serán los que utilizaremos posteriormente para conectarnos a la VPN.
+
+<div align=center><img src="Img/img03.png"></div>
+
+5. Nos aseguramos de que la casilla **“a través de internet”** está marcada y le damos en siguiente.
+
+<div align=center><img src="Img/img04.png"></div>
+
