@@ -26,15 +26,15 @@ Una conexión VPN disfraza sus datos en línea y los protege del acceso externo.
 
 <div align=center><img src="Img/img02.jpg"></div>
 
-* **Disfrazar su paradero:** los servidores de VPN principalmente actúan como sus servidores proxy en internet. Debido a que los datos de ubicación demográficos provienen de un servidor en otro país, su ubicación real no se puede determinar. A esto se suma que, en la mayoría de los casos, los proveedores de estos servicios no guardan registros sobre sus actividades. Por otra parte, algunos proveedores registran su comportamiento, pero no transmiten esa información a terceros. Esto significa que cualquier registro potencial de su comportamiento de usuario permanece oculto de manera permanente.
+* **Disfrazar su paradero:** Los servidores de VPN principalmente actúan como sus servidores proxy en internet. Debido a que los datos de ubicación demográficos provienen de un servidor en otro país, su ubicación real no se puede determinar. A esto se suma que, en la mayoría de los casos, los proveedores de estos servicios no guardan registros sobre sus actividades. Por otra parte, algunos proveedores registran su comportamiento, pero no transmiten esa información a terceros. Esto significa que cualquier registro potencial de su comportamiento de usuario permanece oculto de manera permanente.
 
 <div align=center><img src="Img/img03.jpg"></div>
 
-* **Acceso a contenido regional:** el contenido web regional no siempre es accesible desde cualquier parte. Los servicios y los sitios web a menudo contienen contenido que solo puede accederse desde ciertas partes del mundo. Las conexiones estándar utilizan servidores locales en el país para determinar su ubicación. Esto significa que no puede acceder al contenido en casa mientras viaja, y no puede acceder a contenido internacional desde casa. Con la suplantación de ubiación de VPN, puede cambiar a un servidor a otro país y “cambiar” su ubicación de manera eficaz.
+* **Acceso a contenido regional:** El contenido web regional no siempre es accesible desde cualquier parte. Los servicios y los sitios web a menudo contienen contenido que solo puede accederse desde ciertas partes del mundo. Las conexiones estándar utilizan servidores locales en el país para determinar su ubicación. Esto significa que no puede acceder al contenido en casa mientras viaja, y no puede acceder a contenido internacional desde casa. Con la suplantación de ubiación de VPN, puede cambiar a un servidor a otro país y “cambiar” su ubicación de manera eficaz.
 
 <div align=center><img src="Img/img04.jpg"></div>
 
-* **Transferencia segura de datos:** si trabaja de forma remota, puede necesitar acceder a archivos importantes en la red de su empresa. Por razones de seguridad, este tipo de información requiere una conexión segura. Para obtener acceso a la red, a menudo se requiere una conexión VPN. Los servicios de VPN establecen conexiones con servidores privados y utilizan métodos de cifrado para reducir el riesgo de filtración de datos.
+* **Transferencia segura de datos:** Si trabaja de forma remota, puede necesitar acceder a archivos importantes en la red de su empresa. Por razones de seguridad, este tipo de información requiere una conexión segura. Para obtener acceso a la red, a menudo se requiere una conexión VPN. Los servicios de VPN establecen conexiones con servidores privados y utilizan métodos de cifrado para reducir el riesgo de filtración de datos.
 
 <div align=center><img src="Img/img05.jpg"></div>
 
@@ -54,22 +54,17 @@ Debería confiar en su VPN para realizar una o más tareas. La VPN en sí misma 
 
 Cifrado de su dirección IP: la función principal de una VPN es ocultar su dirección IP de su ISP y otros terceros. Esto le permite enviar y recibir información en línea con la tranquilidad de que nadie, excepto tú y el proveedor de la VPN, tendrá acceso a lo que hagas.
 
-* **Cifrado de protocolos:** una VPN le debe ayudar a no dejar rastros como cookies e historiales de búsquedas y navegación. El cifrado de cookies es especialmente importante porque le impide a terceros obtener acceso a información confidencial como datos personales, información financiera y otros contenidos en los sitios web.
+* **Cifrado de protocolos:** Una VPN le debe ayudar a no dejar rastros como cookies e historiales de búsquedas y navegación. El cifrado de cookies es especialmente importante porque le impide a terceros obtener acceso a información confidencial como datos personales, información financiera y otros contenidos en los sitios web.
 
 <div align=center><img src="Img/img07.jpg"></div>
 
-* **Kill switch:** si su conexión VPN se ve interrumpida repentinamente, su conexión segura también se verá interrumpida. Una buena VPN puede detectar este tiempo de inactividad repentino y finalizar los programas preseleccionados, lo que reduce la probabilildad de que se comprometan los datos.
+* **Kill switch:** Si su conexión VPN se ve interrumpida repentinamente, su conexión segura también se verá interrumpida. Una buena VPN puede detectar este tiempo de inactividad repentino y finalizar los programas preseleccionados, lo que reduce la probabilildad de que se comprometan los datos.
 
 <div align=center><img src="Img/img08.jpg"></div>
 
-* **Autenticación de dos factores:** al utilizar una variedad de métodos de autenticación, una VPN fuerte verifica a cualquiera que intente iniciar sesión. Por ejemplo, se le podría pedir que ingrese una contraseña, luego de lo cual se envía un código a su dispositivo móvil. Esto le dificulta el acceso sin permiso a terceros a tu conexión segura.
+* **Autenticación de dos factores:** Al utilizar una variedad de métodos de autenticación, una VPN fuerte verifica a cualquiera que intente iniciar sesión. Por ejemplo, se le podría pedir que ingrese una contraseña, luego de lo cual se envía un código a su dispositivo móvil. Esto le dificulta el acceso sin permiso a terceros a tu conexión segura.
 
-
-<div align=center><video width="600" height="400" controls src=
-"https://youtu.be/NtDT-S6FDtM">
-         Browser not supported
-        </video></div>
-
+<div align=center><img src="Img/img09.jpg"></div>
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
