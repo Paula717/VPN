@@ -87,7 +87,7 @@ Con frecuencia no todos los empleados de una empresa tienen acceso a una computa
 <div align=center><img src="Img/img10.jpg"></div>
 
 El prerrequsito normalmente es un navegador HTML-5, el cual se utiliza para solicitar la página de inicio de sesión de una empresa. Los navegadores HTML-5 están disponibles para casi cualquier sistema operativo. El acceso está protegido con un usuario y contraseña.
-
+_____________________________________________________________________________
 <div align=center><b>VPN de sitio a sitio</b></div>
 
 Una **VPN de sitio a sitio** es, básicamente, una red privada que está diseñada para ocultar intranets privadas y dejar que los usuarios de estas redes seguras compartan recursos entre sí.
