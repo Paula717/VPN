@@ -8,10 +8,10 @@
 en la mayoria de dispositivos de computo y moviles actualmente y de esta forma no utilizar clientes de terceros.
 
 Primero vamos a ir al botón de **PPP**  
-<div align=center><img src="Img/img02.png"></div>
+<div align=center><img src="Img/img02.jpg"></div>
 
 Luego a **Profiles** y al botón **+**
-<div align=center><img src="Img/img03.png"></div>
+<div align=center><img src="Img/img03.jpg"></div>
 
 
 
