@@ -110,6 +110,34 @@ Este tipo de VPN es cada vez más común; resulta particularmente útil para los
 
 La ventaja de este tipo de acceso a la VPN es una mayor eficacia y acceso universal a los recursos de una empresa. Siempre que esté disponible un sistema telefónico apropiado, el empleado puede, por ejemplo, conectarse al sistema con un audífono y actuar como si estuviera en el lugar de trabajo de la empresa. Por ejemplo, los clientes de una empresa no se pueden dar cuenta de si el empleado está en el trabajo en la empresa o en su oficina en casa.
 
+# **¿Cuántos protocolos VPN hay?**
+
+<div align=center><img src="Img/img13.jpg"></div>
+
+Las conexiones VPN usan una conexión cifrada también llamada túnel. Hay varias formas distintas (protocolos) de configurar dicha conexión VPN. Estos protocolos se aseguran de que tus datos estén a salvo y que otros no puedan leerlos. 
+
+Los [protocolos VPN][2_5] más comunes son:
+
+* **OpenVPN:** OpenVPN es uno de los protocolos VPN más usados. Es un protocolo de código abierto que utiliza cifrado basado en los protocolos OpenSSL y SSLv3/TLSv1. La mayoría de servicios de VPN admiten OpenVPN y está disponible para muchas plataformas distintas (por ejemplo, Windows, Mac (OSx), Android, iOS, Linux, routers). La mayoría considera que OpenVPN es la mejor opción. La única desventaja es que no funciona en Mac OS e iOS, por lo que debes usar un protocolo distinto para ello (como, IKEv2/IPsec).
+
+<div align=center><img src="Img/img14.jpg"></div>
+
+* **IPsec/L2TP:** Este protocolo combina **IPsec** para el cifrado de datos con **L2TP** para realizar la conexión segura. La mayoría de los sistemas operativos incluyen IPsec/L2TP y es una buena opción si OpenVPN no está disponible.
+IKEv2/IPsec: IKEv2 es un protocolo basado en IPSec. Este protocolo puede rápidamente conectar e intercambiar entre servidores. Esto lo convierte en una opción ideal para smartphones, ya que estos dispositivos tienden a cambiar regularmente entre redes Wi-Fi y redes Wi-Fi públicas. Según las mismas fuentes, IKEv2 es más rápido que OpenVPN. Aun así, a OpenVPN se le considera el mejor protocolo.
+
+<div align=center><img src="Img/img15.jpg"></div>
+
+* **PPTP:** PPTP (Protocolo de túnel punto a punto) es uno de los primeros protocolos que estuvieron disponibles. Este protocolo contiene algunas (potenciales) fugas. Por esta razón, el uso de este protocolo solo es aconsejable si la velocidad es más importante que la seguridad. Este podría ser el caso si quieres evitar las restricciones establecidas por los servicios de streaming.
+
+<div align=center><img src="Img/img16.jpg"></div>
+
+* **Softether:** Softether, a diferencia de los otros protocolos VPN mencionados, no es un protocolo independiente, sino una aplicación de código abierto que funciona en diferentes plataformas y ofrece soporte para protocolos VPN como SSL VPN, L2TP/IPsec, OpenVPN y Microsoft Secure Socket Tunneling Protocol.
+
+<div align=center><img src="Img/img17.jpg"></div>
+
+* **WireGuard:** WireGuard es un protocolo relativamente nuevo que ha ido ganando popularidad. Se ejecuta en un kernel de Linux y tiene como objetivo lograr un rendimiento aún mejor que OpenVPN e IPsec. Aún está en desarrollo, por lo que mejor que uses OpenVPN de momento.
+
+<div align=center><img src="Img/img18.jpg"></div>
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
@@ -123,3 +151,5 @@ La ventaja de este tipo de acceso a la VPN es una mayor eficacia y acceso univer
 [2_3]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
 
 [2_4]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
+
+[2_5]:https://vpnoverview.com/es/informacion-vpn/protocolos-vpn/
