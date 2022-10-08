@@ -1,8 +1,8 @@
 # **¿Que es un VPN?**
 
-**VPN** significa **"Virtual Private Network"** (Red privada virtual) y describe la oportunidad de establecer una conexión protegida al utilizar redes públicas. 
+**VPN** significa **"Virtual Private Network"** (Red privada virtual) y describe la oportunidad de establecer una conexión protegida al utilizar redes públicas.
 
-Las VPN cifran su tráfico en internet y disfrazan su identidad en línea. Esto le dificulta a terceros el seguimiento de sus actividades en línea y el robo de datos. El cifrado se hace en tiempo real.
+Las VPN cifran su tráfico en internet y disfrazan su identidad en línea. Esto le dificulta a terceros el seguimiento de sus actividades en línea y el robo de datos. El cifrado se hace en tiempo real.</p>
 
 <div align=center><img src="Img/img01.jpg"></div>
 
@@ -65,6 +65,43 @@ Cifrado de su dirección IP: la función principal de una VPN es ocultar su dire
 * **Autenticación de dos factores:** Al utilizar una variedad de métodos de autenticación, una VPN fuerte verifica a cualquiera que intente iniciar sesión. Por ejemplo, se le podría pedir que ingrese una contraseña, luego de lo cual se envía un código a su dispositivo móvil. Esto le dificulta el acceso sin permiso a terceros a tu conexión segura.
 
 <div align=center><img src="Img/img09.jpg"></div>
+
+# **¿Cómo mantenerse a salvo con una VPN?**
+
+Una VPN cifra su comportamiento de navegación, el cual se puede decodificar con la ayuda de una clave. Solo su computadora y la VPN conocen esta clave, por lo que su ISP no puede reconocer dónde está navegando. Las distintas VPN utilizan diversos procesos de cifrado, pero generalmente funcionan en tres pasos:
+
+1. Una vez que está en línea, inicie su VPN. La VPN funciona como un túnel entre usted y la internet. Su ISP y otros terceros no pueden detectar este túnel.
+
+1. Su dispositivo ya está en la red local de la VPN y su dirección IP se puede cambiar a una dirección IP provista por el servidor VPN.
+
+1. Ya puede navegar por internet a sus anchas, ya que la VPN protege todos sus datos personales.
+
+# **¿Qué tipos de VPN existen?**
+
+Existen muchas clases de VPN, pero vale la pena destacar tres:
+
+**VPN configurada en SSL**
+
+Con frecuencia no todos los empleados de una empresa tienen acceso a una computadora portátil que pueden usar para trabajar desde casa. Durante la crisis del coronavirus en la primavera del 2020, muchas empresas se enfrentaron al problema de no tener suficientes equipos para sus empleados. En esos casos, a menudo se recurre al uso de un dispositivo privado (PC, computadora portátil, tableta, teléfono móvil). En este caso, las empresas se respaldan en una solución SSL-VPN, la cual se implementa a través de una caja de hardware correspondiente.
+
+El prerrequsito normalmente es un navegador HTML-5, el cual se utiliza para solicitar la página de inicio de sesión de una empresa. Los navegadores HTML-5 están disponibles para casi cualquier sistema operativo. El acceso está protegido con un usuario y contraseña.
+
+**VPN de sitio a sitio**
+
+Una VPN de sitio a sitio es, básicamente, una red privada que está diseñada para ocultar intranets privadas y dejar que los usuarios de estas redes seguras compartan recursos entre sí.
+
+Una VPN de sitio a sitio es útil si tiene múltiples ubicaciones en su empresa, cada una con su propia red de área local (LAN) conectada a una WAN (red de área amplia). Las VPN de sitio a sitio también son útiles si tiene dos intranets separadas entre las cuales quiere enviar archivos sin usuarios de una intranet que accede explícitamente a otra.
+
+Las VPN de sitio a sitio se usan, sobre todo, en las grandes empresas. Son complejas de implementar y no ofrecen la misma flexibilidad que las VPN SSL. Sin embargo, son las más eficaces para asegurar la comunicación dentro de y entre grandes departamentos.
+
+VPN cliente a proveedor
+Conectarse a través de un cliente VPN se puede pensar como si estuviera conectando su PC personal a la empresa con un cable de extensión. Los empleados pueden marcar hacia una red de la empresa desde su trabajo en casa a través de la conexión segura y actuar como si estuvieran sentados en la oficina. Sin embargo, un cliente VPN primero debe estar instalado y configurado en la computadora.
+
+Esto implica que el usuario no esté conectado a internet desde su propio ISP, sino que establece una conexión directa a través de su proveedor de VPN. Básicamente, permite eliminar la fase de túnel del recorrido de la VPN. No es necesario usar la VPN para crear un túnel cifrado que permita ocultar la conexión a internet existente: la VPN se encarga de cifrar el tráfico automáticamente antes de que llegue al usuario.
+
+Este tipo de VPN es cada vez más común; resulta particularmente útil para los proveedores que brindan acceso a través de redes WLAN inseguras. Impide que terceros accedan a la conexión de red y comprometan la conexión de la red y cifra los datos hasta el proveedor. También impide que las ISP accedan a datos que, por alguna razón, permanecen sin cifrado y evitan cualquier restricción al acceso a internet de un usuario (por ejemplo, si el gobierno de ese país restringe el acceso a internet).
+
+La ventaja de este tipo de acceso a la VPN es una mayor eficacia y acceso universal a los recursos de una empresa. Siempre que esté disponible un sistema telefónico apropiado, el empleado puede, por ejemplo, conectarse al sistema con un audífono y actuar como si estuviera en el lugar de trabajo de la empresa. Por ejemplo, los clientes de una empresa no se pueden dar cuenta de si el empleado está en el trabajo en la empresa o en su oficina en casa.
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
