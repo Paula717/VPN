@@ -38,11 +38,36 @@ Una conexión VPN disfraza sus datos en línea y los protege del acceso externo.
 
 <div align=center><img src="Img/img05.jpg"></div>
 
+# **¿Por qué debería utilizar una conexión VPN?**
+
+Su [ISP][2_3] normalmente configura su conexión cuando se conecta a internet. Lo rastrea mediante una dirección IP. El tráfico de su red se transmite a través de sus servidores de ISP, los cuales pueden registrar y mostrar todo lo que hace en línea.
+
+Su ISP puede parecer confiable, pero puede compartir su historial de búsqueda con los anunciantes, la policía o el gobierno y/u otros terceros. Los ISP también pueden ser víctimas de ataques de los cibercriminales: si los hackean, sus datos personales y privados pueden verse comprometidos.
+
+Esto es especialmente importante si acostumbra a usar redes Wi-Fi públicas. Nunca se sabe quién podría estar monitoreando su tráfico en internet y lo que podrían robarle, incluidas contraseñas, datos personales, información de pago o incluso su identidad.
+
+<div align=center><img src="Img/img06.jpg"></div>
+
+# **¿Qué debe hacer una buena VPN?**
+
+Debería confiar en su VPN para realizar una o más tareas. La VPN en sí misma también debe ser segura contra riesgos. Estas son las cualidades que deben esperarse de cualquier solución VPN completa:
+
+Cifrado de su dirección IP: la función principal de una VPN es ocultar su dirección IP de su ISP y otros terceros. Esto le permite enviar y recibir información en línea con la tranquilidad de que nadie, excepto tú y el proveedor de la VPN, tendrá acceso a lo que hagas.
+
+* **Cifrado de protocolos:** una VPN le debe ayudar a no dejar rastros como cookies e historiales de búsquedas y navegación. El cifrado de cookies es especialmente importante porque le impide a terceros obtener acceso a información confidencial como datos personales, información financiera y otros contenidos en los sitios web.
+
+<div align=center><img src="Img/img07.jpg"></div>
+
+* **Kill switch:** si su conexión VPN se ve interrumpida repentinamente, su conexión segura también se verá interrumpida. Una buena VPN puede detectar este tiempo de inactividad repentino y finalizar los programas preseleccionados, lo que reduce la probabilildad de que se comprometan los datos.
+
+* **Autenticación de dos factores:** al utilizar una variedad de métodos de autenticación, una VPN fuerte verifica a cualquiera que intente iniciar sesión. Por ejemplo, se le podría pedir que ingrese una contraseña, luego de lo cual se envía un código a su dispositivo móvil. Esto le dificulta el acceso sin permiso a terceros a tu conexión segura.
+
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
-
 * [¿Qué es una VPN y cómo funciona?][2_2]
 
 [2_1]:https://www.xataka.com/basics/que-es-una-conexion-vpn-para-que-sirve-y-que-ventajas-tiene
 
 [2_2]:https://latam.kaspersky.com/resource-center/definitions/what-is-a-vpn
+
+[2_3]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
