@@ -108,7 +108,7 @@ Este tipo de VPN es cada vez más común; resulta particularmente útil para los
 
 La ventaja de este tipo de acceso a la VPN es una mayor eficacia y acceso universal a los recursos de una empresa. Siempre que esté disponible un sistema telefónico apropiado, el empleado puede, por ejemplo, conectarse al sistema con un audífono y actuar como si estuviera en el lugar de trabajo de la empresa. Por ejemplo, los clientes de una empresa no se pueden dar cuenta de si el empleado está en el trabajo en la empresa o en su oficina en casa.
 
-<div style="color:BLUE";>Red paragraph text</div>
+<div style="color:BLUE">Red paragraph text</div>
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
