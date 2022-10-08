@@ -98,17 +98,18 @@ Una VPN de sitio a sitio es útil si tiene múltiples ubicaciones en su empresa,
 
 Las VPN de sitio a sitio se usan, sobre todo, en las grandes empresas. Son complejas de implementar y no ofrecen la misma flexibilidad que las VPN SSL. Sin embargo, son las más eficaces para asegurar la comunicación dentro de y entre grandes departamentos.
 
-**VPN cliente a proveedor**
+<div align=center><b>VPN cliente a proveedor</b></div>
 
-Conectarse a través de un cliente VPN se puede pensar como si estuviera conectando su PC personal a la empresa con un cable de extensión. Los empleados pueden marcar hacia una red de la empresa desde su trabajo en casa a través de la conexión segura y actuar como si estuvieran sentados en la oficina. Sin embargo, un cliente VPN primero debe estar instalado y configurado en la computadora.
+Conectarse a través de un **cliente VPN** se puede pensar como si estuviera conectando su PC personal a la empresa con un cable de extensión. Los empleados pueden marcar hacia una red de la empresa desde su trabajo en casa a través de la conexión segura y actuar como si estuvieran sentados en la oficina. Sin embargo, un cliente VPN primero debe estar instalado y configurado en la computadora.
 
 Esto implica que el usuario no esté conectado a internet desde su propio ISP, sino que establece una conexión directa a través de su proveedor de VPN. Básicamente, permite eliminar la fase de túnel del recorrido de la VPN. No es necesario usar la VPN para crear un túnel cifrado que permita ocultar la conexión a internet existente: la VPN se encarga de cifrar el tráfico automáticamente antes de que llegue al usuario.
 
-Este tipo de VPN es cada vez más común; resulta particularmente útil para los proveedores que brindan acceso a través de redes WLAN inseguras. Impide que terceros accedan a la conexión de red y comprometan la conexión de la red y cifra los datos hasta el proveedor. También impide que las ISP accedan a datos que, por alguna razón, permanecen sin cifrado y evitan cualquier restricción al acceso a internet de un usuario (por ejemplo, si el gobierno de ese país restringe el acceso a internet).
+<div align=center><img src="Img/img12.jpg"></div>
+
+Este tipo de VPN es cada vez más común; resulta particularmente útil para los proveedores que brindan acceso a través de redes WLAN inseguras. Impide que terceros accedan a la conexión de red y comprometan la conexión de la red y cifra los datos hasta el proveedor. También impide que las ISP accedan a datos que, por alguna razón, permanecen sin cifrado y evitan cualquier restricción al acceso a internet de un usuario **(por ejemplo, si el gobierno de ese país restringe el acceso a internet)**.
 
 La ventaja de este tipo de acceso a la VPN es una mayor eficacia y acceso universal a los recursos de una empresa. Siempre que esté disponible un sistema telefónico apropiado, el empleado puede, por ejemplo, conectarse al sistema con un audífono y actuar como si estuviera en el lugar de trabajo de la empresa. Por ejemplo, los clientes de una empresa no se pueden dar cuenta de si el empleado está en el trabajo en la empresa o en su oficina en casa.
 
-<div style="color:BLUE">Red paragraph text</div>
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
