@@ -22,3 +22,10 @@ Para ello debemos seguir unos pasos que se detallan a continuación:
 
 <div align=center><img src="Img/img04.png"></div>
 
+6. Seleccionamos **IPV4** y abrimos sus propiedades.
+
+<div align=center><img src="Img/img05.png"></div>
+
+7. Marcamos la casilla de **acceso a la red** y **especificamos las direcciones IP** de los clientes que tendrán acceso usando VPN (se recomienda usar el rango superior de direcciones IP para evitar problemas con las que distribuye el router).
+
+<div align=center><img src="Img/img06.png"></div>
