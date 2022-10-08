@@ -142,6 +142,6 @@ Presionamos **Ok** varias veces hasta salir.
 
 Con estos últimos pasos nos conectaremos a nuestra VPN y tendremos acceso a los mismos recursos que tendríamos en caso de estar conectados físicamente a la red.
 
-<div align=center><img src="Img/img02.gif"></div>
+<div align=center><img src="img/img02.gif"></div>
 
 [1_0]:https://www.noip.com/
