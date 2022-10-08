@@ -6,7 +6,7 @@
 
 ## Agenda
 1. [VPN][03]
-1. [Configuración VPN][02]
+1. [Configuración VPN Mikrotik][02]
 
 
 [00]:https://github.com/Paula717
@@ -15,5 +15,5 @@
 
 [03]:https://github.com/Paula717/VPN/tree/main/1-VPN
 
-[02]:https://github.com/Paula717/VPN/tree/main/2-Configuracion%20VPN
+[02]:https://github.com/Paula717/VPN/tree/main/2-Configuracion%20VPN%20Mikrotik
 
