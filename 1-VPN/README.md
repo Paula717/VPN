@@ -94,7 +94,8 @@ Una VPN de sitio a sitio es útil si tiene múltiples ubicaciones en su empresa,
 
 Las VPN de sitio a sitio se usan, sobre todo, en las grandes empresas. Son complejas de implementar y no ofrecen la misma flexibilidad que las VPN SSL. Sin embargo, son las más eficaces para asegurar la comunicación dentro de y entre grandes departamentos.
 
-VPN cliente a proveedor
+**VPN cliente a proveedor**
+
 Conectarse a través de un cliente VPN se puede pensar como si estuviera conectando su PC personal a la empresa con un cable de extensión. Los empleados pueden marcar hacia una red de la empresa desde su trabajo en casa a través de la conexión segura y actuar como si estuvieran sentados en la oficina. Sin embargo, un cliente VPN primero debe estar instalado y configurado en la computadora.
 
 Esto implica que el usuario no esté conectado a internet desde su propio ISP, sino que establece una conexión directa a través de su proveedor de VPN. Básicamente, permite eliminar la fase de túnel del recorrido de la VPN. No es necesario usar la VPN para crear un túnel cifrado que permita ocultar la conexión a internet existente: la VPN se encarga de cifrar el tráfico automáticamente antes de que llegue al usuario.
