@@ -1,6 +1,6 @@
 # **¿Que es un VPN?**
 
-**VPN** significa **"Virtual Private Network"** (Red privada virtual) y describe la oportunidad de establecer una conexión protegida al utilizar redes públicas.
+**VPN** significa **"Virtual Private Network"** (Red privada virtual) y describe la oportunidad de establecer una conexión protegida al utilizar redes públicas
 
 Las VPN cifran su tráfico en internet y disfrazan su identidad en línea. Esto le dificulta a terceros el seguimiento de sus actividades en línea y el robo de datos. El cifrado se hace en tiempo real.</p>
 
