@@ -13,4 +13,4 @@
 
 [01]:https://github.com/JuanC717
 
-[02]:https://github.com/Paula717/VPN/tree/main/VPN
+[02]:https://github.com/Paula717/VPN/tree/main/1-VPN
