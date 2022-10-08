@@ -1,5 +1,6 @@
 
 <H1><div align=center>CONFIGURACION DE VPN CON MIKROTIK</H1>
+
 <div align=center><img src="Img/img01.gif"></div>
 
 <text style = "display:block; text-align: justify"> Con la Ayuda del software **RouterOS Winbox** la cual es una aplicación que nos permite la administracion de **Mikrotik** usando una interfaz gráfica. El cual incluye una sofisticada tecnología para realizar estas conexiones basada en el sistema operativo RouterOS. Este software permite a sus usuarios realizar conexiones vía FTP, telnet y SSH.
