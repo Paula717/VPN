@@ -60,14 +60,26 @@ Cifrado de su dirección IP: la función principal de una VPN es ocultar su dire
 
 * **Kill switch:** si su conexión VPN se ve interrumpida repentinamente, su conexión segura también se verá interrumpida. Una buena VPN puede detectar este tiempo de inactividad repentino y finalizar los programas preseleccionados, lo que reduce la probabilildad de que se comprometan los datos.
 
+<div align=center><img src="Img/img08.jpg"></div>
+
 * **Autenticación de dos factores:** al utilizar una variedad de métodos de autenticación, una VPN fuerte verifica a cualquiera que intente iniciar sesión. Por ejemplo, se le podría pedir que ingrese una contraseña, luego de lo cual se envía un código a su dispositivo móvil. Esto le dificulta el acceso sin permiso a terceros a tu conexión segura.
+
+
+<div align=center><video width="600" height="400" controls src=
+"https://youtu.be/NtDT-S6FDtM">
+         Browser not supported
+        </video></div>
+
 
 # **Mas información**
 * [¿Qué es una conexión VPN, para qué sirve y qué ventajas tiene?][2_1]
 * [¿Qué es una VPN y cómo funciona?][2_2]
+* [ISP: ¿Qué es y para qué sirve?][2_4]
 
 [2_1]:https://www.xataka.com/basics/que-es-una-conexion-vpn-para-que-sirve-y-que-ventajas-tiene
 
 [2_2]:https://latam.kaspersky.com/resource-center/definitions/what-is-a-vpn
 
 [2_3]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
+
+[2_4]:https://sumamovil.com.co/glosario/isp-que-es-y-para-que-sirve
