@@ -80,9 +80,11 @@ Una VPN cifra su comportamiento de navegación, el cual se puede decodificar con
 
 Existen muchas clases de VPN, pero vale la pena destacar tres:
 
-**VPN configurada en SSL**
+<div align=center><b>VPN configurada en SSL</b></div>
 
 Con frecuencia no todos los empleados de una empresa tienen acceso a una computadora portátil que pueden usar para trabajar desde casa. Durante la crisis del coronavirus en la primavera del 2020, muchas empresas se enfrentaron al problema de no tener suficientes equipos para sus empleados. En esos casos, a menudo se recurre al uso de un dispositivo privado (PC, computadora portátil, tableta, teléfono móvil). En este caso, las empresas se respaldan en una solución SSL-VPN, la cual se implementa a través de una caja de hardware correspondiente.
+
+<div align=center><img src="Img/img10.jpg"></div>
 
 El prerrequsito normalmente es un navegador HTML-5, el cual se utiliza para solicitar la página de inicio de sesión de una empresa. Los navegadores HTML-5 están disponibles para casi cualquier sistema operativo. El acceso está protegido con un usuario y contraseña.
 
