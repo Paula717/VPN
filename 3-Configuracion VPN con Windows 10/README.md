@@ -6,6 +6,10 @@ Para ello debemos seguir unos pasos que se detallan a continuación:
 
 1. Vamos a **Panel de Control** -> **Redes e Internet** -> **Centro de redes y recursos compartidos**
 
-2. Accedemos a **Cambiar configuración del adaptador**
+1. Accedemos a **Cambiar configuración del adaptador**
 
 <div align=center><img src="Img/img01.png"></div>
+
+1. Presionamos la tecla **“Alt”** y seleccionamos **“Archivo”** -> **Nueva conexión entrante**
+
+<div align=center><img src="Img/img02.png"></div>
