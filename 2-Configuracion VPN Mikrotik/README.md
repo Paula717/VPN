@@ -48,7 +48,7 @@ En **General** <div align=center><img src="img/img12.jpg"></div>
 
 En **Action** <div align=center><img src="img/img13.jpg"></div>
 
-<text style = "display:block; text-align: center"> **Y listo, eso seria todo ☻.**
+<text style = "display:block; text-align: center"> **Y listo, eso seria todo 🤭**
 <div align=center><img src="img/img14.gif"></div>
 
  Solo nos quedaria conectarnos a la VPN que hemos creado para comprobar que este funcionando. Para esto lo haremos por medio del dispositivo movil de la siguiente forma:
