@@ -48,5 +48,5 @@ En **General** <div align=center><img src="img/img12.jpg"></div>
 
 En **Action** <div align=center><img src="img/img13.jpg"></div>
 
-<text style = "display:block; text-align: justify"> **Y listo, eso seria todo** 😁😁
+<H1><div align=center> Y listo eso seria todo 😁😁 </H1>
 <div align=center><img src="img/img14.gif"></div>
