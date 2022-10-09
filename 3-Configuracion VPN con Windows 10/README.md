@@ -69,3 +69,79 @@ Para que el servidor VPN se inicie cada vez que se encienda el sistema debemos s
 2. Una vez iniciada buscamos el servicio “**Enrutamiento y Acceso remoto**” y accedemos a sus propiedades.
 
 <div align=center><img src="Img/img11.png"></div>
+
+3. Una vez que hemos accedido a sus propiedades en la pestaña general seleccionamos el tipo de inicio “**Automático (inicio retrasado)**” y pulsamos en **Aceptar**. 
+
+De esta forma el servicio esperará más tiempo para iniciarse y no dará error.
+
+<div align=center><img src="Img/img12.png"></div>
+
+# **Configurar Dominio de IP** 
+
+Para conectarnos posteriormente al servidor VPN, necesitaremos la dirección IP del router al que se encuentra conectado el sistema en el cual hemos configurado el servidor VPN. 
+
+Esto puede ser un problema ya que las IPs de un router suelen ser **dinámicas**, es decir, no siempre van a ser las mismas. Una buena forma de sortear este problema es **asignar un dominio** (un nombre fijo) a nuestro router, de esta forma, aunque la IP cambie, el dominio seguirá siendo el mismo y seguiremos teniendo acceso. 
+
+Un buen modo es hacer uso de la web [No-IP][1_0] que nos permite crear un dominio gratuito que posteriormente podemos usar en nuestro ordenador.
+
+Para ello debemos seguir los siguientes pasos:
+
+1. Accedemos y nos registramos en la web [No-IP][1_0]. Después, establecemos un nombre para nuestro dominio, es aconsejable procurar que sea sencillo de recordar.
+
+2. Ahora es el momento de instalar el cliente No-IP, en el equipo que actuará como servidor VPN. Este programa sincronizará la IP de tu equipo y el nombre de dominio que has creado en No-IP. De esa forma te podrás conectar a él, aunque su IP cambie. Accede de nuevo a tu cuenta en la web de No-IP y, en su panel de control, haz clic sobre la opción “**Dynamic Update Client**”, que encontrarás en el panel lateral. Después, haz clic sobre el botón “**Download Now**”, para descargar el instalador del cliente No-IP. Instálalo en tu equipo e inícialo.
+
+3. A continuación, introduce la dirección de correo y contraseña que usaste en el registro de No-IP. En la ventana del cliente No-IP, puedes observar que todavía no ha reconocido ningún dominio y, por tanto, no puede sincronizar tu IP. Haz clic sobre “**Edit Hosts**”. Marca la casilla del dominio que creaste en el apartado anterior y pulsa en **“Save”**.
+
+Ahora ya se reconoce el dominio y le asignara la IP correcta. Si apagas y enciendes tu router comprobarás como la IP cambia, pero el cliente No-IP la vuelve a asignar a tu dominio. Aunque cierres la ventana del cliente No-IP, este continuará trabajando en segundo plano.
+
+# **Conexión a la VPN**
+
+Con todos los pasos realizados previamente hemos configurado correctamente un servidor VPN y la posibilidad de realizar conexiones a la misma. 
+
+A continuación, vamos a explicar cómo conectarnos a esta VPN con un ordenador con Windows 10 conectado a Internet:
+
+1. Para conectar un ordenador al servidor que hemos creado. Buscamos **configuración de VPN** -> **Agregar una nueva conexión VPN** -> **Introducimos los datos**
+
+<div align=center><img src="Img/img13.png"></div>
+
+En el caso del nombre de usuario y contraseña este se corresponde con el usuario que hemos creado en los pasos anteriores. 
+
+En cuanto al nombre de servidor o conexión, corresponde con la dirección IP o dominio del router al que se encuentra conectado el ordenador donde creamos el servidor VPN.
+
+2. Vamos a **Panel de control** -> **Redes e internet** -> **Centro de redes y recursos compartidos** -> **Cambiar configuración del adaptador**
+
+<div align=center><img src="Img/img14.png"></div>
+
+3. Clic derecho sobre la conexión VPN que hemos creado y propiedades
+
+4. 
+
+* **En general:** Nos aseguramos de que el dominio es correcto
+
+* **En seguridad:**
+
+<div align=center><img src="Img/img15.png"></div>
+
+Le damos **Clic en Ok**.
+
+* **En redes:** Desmarcamos IPv6, marcamos IPv4, accedemos a propiedades de IPv4
+
+<div align=center><img src="Img/img16.png"></div>
+
+Pulsamos en **opciones avanzadas**
+
+<div align=center><img src="Img/img17.png"></div>
+
+Desmarcamos la opción de usar el Gateway por defecto
+
+<div align=center><img src="Img/img18.png"></div>
+
+Presionamos **Ok** varias veces hasta salir.
+
+5. Vamos a **Configuración** -> **Red e internet** -> **VPN** -> **Conectar**
+
+Con estos últimos pasos nos conectaremos a nuestra VPN y tendremos acceso a los mismos recursos que tendríamos en caso de estar conectados físicamente a la red.
+
+<div align=center><img src="Img/img20.gif"></div>
+
+[1_0]:https://www.noip.com/
