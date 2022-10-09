@@ -14,7 +14,41 @@ Primero vamos a ir al botón de **PPP**
 Luego a **Profiles** y al botón **+**
 <div align=center><img src="img/img03.jpg"></div>
 
+<text style = "display:block; text-align: justify">En este apartado, crearemos un perfil de la siguiente forma:
+<div align=center><img src="img/img04.jpg"></div>
 
+<text style = "display:block; text-align: justify"> Luego vamos al apartado de **Protocols** y lo configuramos de la siguiente form (despues solo le damos en el Boton de **OK** ):
+<div align=center><img src="img/img05.jpg"></div>
 
+<text style = "display:block; text-align: justify"> Despues de terminar con la configuracion del perfil vamos a crear un usuario dandole al botón de Secrets, donde pondremos un Nombre de usuario,
+contraseña, servicio y seleccionamos el Perfil que hicimos anteriormente, Ejemplo:
+<div align=center><img src="img/img06.jpg"></div>
 
+<text style = "display:block; text-align: justify"> Continuamos nuestra configuración en el botón de **Interface** luego le damos en el botón de **L2TP Server** y configuramos el apartado de la siguiente forma:
+<div align=center><img src="img/img07.jpg"></div>
 
+<text style = "display:block; text-align: justify"> Luego solo le damos en **Apply** y **OK**
+
+De esta forma ya tendriamos configurada nuestra VPN, pero necesitamos abrir unos puertos en la parte de **Firewall** para que la VPN funcione correctamente.
+Para esto nos vamos al botón de **IP**
+<div align=center><img src="img/img08.jpg"></div>
+
+<text style = "display:block; text-align: justify"> Luego damos click en el **+** y añadiremos una por una estas 2 reglas que veremos en el siguiente listado:
+<div align=center><img src="img/img09.jpg"></div>
+
+<text style = "display:block; text-align: justify"> En la primera lo configuraremos de la siguiente forma: 
+
+En **General** <div align=center><img src="img/img10.jpg"></div>
+
+En **Action** <div align=center><img src="img/img11.jpg"></div>
+
+Y en al segunda Regla: 
+
+En **General** <div align=center><img src="img/img12.jpg"></div>  
+
+En **Action** <div align=center><img src="img/img13.jpg"></div>
+
+<text style = "display:block; text-align: center"> **Y listo, eso seria todo ☻!.**
+<div align=center><img src="img/img14.gif"></div>
+
+ Solo nos quedaria conectarnos a la VPN que hemos creado para comprobar que este funcionando. Para esto lo haremos por medio del dispositivo movil de la siguiente forma:
